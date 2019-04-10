@@ -53,7 +53,7 @@ Library for working with NEO related data in Python, without database dependenci
 Getting started
 ---------------
 
-You need Python 3.5 or higher!
+You need Python 3.5 or later!
 
 You can install `neocore` from PyPI with ``easy_install`` or ``pip``:
 
